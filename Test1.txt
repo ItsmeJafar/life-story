@@ -2,4 +2,3 @@ This is file 1
 Good morning spain
 hello world 
 Ami shikhtesi vs code
-Hello all 
